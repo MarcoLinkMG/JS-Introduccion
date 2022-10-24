@@ -1,0 +1,42 @@
+.row{
+    display: flex;
+    align-items: center;
+
+}
+
+.ingresos{
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.ingresos input{
+    margin: 10px;
+
+}
+
+.boton{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card{
+    background-color: yellowgreen;
+    color: white;
+}
+
+.card-body{
+    text-align: center;
+    font-size:120%;
+}
+
+.precios{
+    display: flex;
+    padding-left: 30px;
+}
+
+.color{
+    background-color: black;
+    border-radius: 100%;
+}
